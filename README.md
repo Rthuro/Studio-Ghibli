@@ -4,13 +4,13 @@ This is a simple project that displays Studio Ghibli films using the Studio Ghib
 
 ## Features
 
--📽️ Fetch and display a list of Studio Ghibli films
+-📽️ Fetch and display a list of Studio Ghibli films\
 -📱 Responsive design using Tailwind CSS
 
 ### Tools Used
 
--🏗️ HTML – Structure the webpage
--🎨 Tailwind CSS – Style the page with a modern and responsive design
+-🏗️ HTML – Structure the webpage\
+-🎨 Tailwind CSS – Style the page with a modern and responsive design\
 -🛠️ JavaScript – Fetch data from the Studio Ghibli API and display it dynamically
 
 ### How to Run
