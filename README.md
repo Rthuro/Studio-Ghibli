@@ -1,4 +1,4 @@
-#Studio Ghibli Films Page
+# Studio Ghibli Films Page
 
 This is a simple project that displays Studio Ghibli films using the Studio Ghibli API. The purpose of this project is to practice API integration using JavaScript.
 
@@ -19,10 +19,10 @@ This is a simple project that displays Studio Ghibli films using the Studio Ghib
    git clone https://github.com/yourusername/studio-ghibli-page.git
 2. Open the index.html file in a browser.
 
-#### API Used
+### API Used
 This project uses the [Studio Ghibli API](https://ghibliapi.vercel.app/) to fetch Studio Ghibli data.
 
-#### Screenschot
+### Screenschot
 ![Screenshot 2025-03-24 235938](https://github.com/user-attachments/assets/e7bc08e8-2c6e-4983-816b-86832327629a)
 ![Screenshot 2025-03-24 235949](https://github.com/user-attachments/assets/f581422c-0af4-42d3-bc91-6524aeb0e357)
 
