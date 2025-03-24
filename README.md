@@ -16,7 +16,7 @@ This is a simple project that displays Studio Ghibli films using the Studio Ghib
 ### How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/studio-ghibli-page.git
+   git clone https://github.com/Rthuro/Studio-Ghibli.git
 2. Open the index.html file in a browser.
 
 ### API Used
