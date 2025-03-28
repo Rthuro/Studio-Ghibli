@@ -53,8 +53,8 @@ const displayFilm = (data)=>{
     `;
 }
 function truncateText(text){
-    if(text.length >= 200){
-        return text.substring(0, 150) + "...";
+    if(text.length >= 110){
+        return text.substring(0, 110) + "...";
     }
     return text;
 }
